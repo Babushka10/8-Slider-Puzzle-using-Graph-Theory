@@ -8,7 +8,7 @@ Run the realGame.py to launch the game
 
 Modify the solvablestate function in realGame.py to adjust the difficulty levels
 
-Enjoy the game !!!!!!!!1
+Enjoy the game !!!!!!!!
 
 
 
